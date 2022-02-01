@@ -4,16 +4,16 @@
   font-size: 3em;
   display: grid;
   grid-template-rows: fr1 fr1 fr1 fr1 fr1 fr1 fr1 fr1;
-  grid-template-columns: fr1 fr1 fr1 fr1 fr1 fr1 fr1 fr1 fr1;
+  grid-template-columns: fr1 fr1 fr1 fr1 fr1 fr1 fr1 fr1 fr1 fr1;
   grid-template-areas:
-  "header header header header header header header header header"
-  "nav article-1 article-1 article-1 article-1 article-1 article-1 ad-area ad-area"
-  "nav article-1 article-1 article-1 article-1 article-1 article-1 ad-area ad-area"
-  "nav article-1 article-1 article-1 article-1 article-1 article-1 ad-area ad-area"
-  "nav article-2 article-2 article-2 article-2 article-2 article-2 ad-area ad-area"
-  "nav article-2 article-2 article-2 article-2 article-2 article-2 ad-area ad-area"
-  "nav article-2 article-2 article-2 article-2 article-2 article-2 ad-area ad-area"
-  "footer footer footer footer footer footer footer footer footer";
+  "header header header header header header header header header header"
+  "nav article-1 article-1 article-1 article-1 article-1 article-1 article-1 ad-area ad-area"
+  "nav article-1 article-1 article-1 article-1 article-1 article-1 article-1 ad-area ad-area"
+  "nav article-1 article-1 article-1 article-1 article-1 article-1 article-1 ad-area ad-area"
+  "nav article-2 article-2 article-2 article-2 article-2 article-2 article-2 ad-area ad-area"
+  "nav article-2 article-2 article-2 article-2 article-2 article-2 article-2 ad-area ad-area"
+  "nav article-2 article-2 article-2 article-2 article-2 article-2 article-2 ad-area ad-area"
+  "footer footer footer footer footer footer footer footer footer footer";
 }
 
 #header {
